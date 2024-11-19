@@ -22,10 +22,7 @@ real_dict = {}
 def random_answer(message):
     text_message = (
         "Hello👋 \n\n"
-        "🗳 Get latest Movies from 1Tamilmv\n\n"
-        "⚙️ *How to use me??*🤔\n\n"
-        "✯ Please Enter */view* command and you'll get magnet link as well as link to torrent file 😌\n\n"
-        "🔗 Share and Support💝"
+        "USe /view to get magnet&torrents"
     )
     
     keyboard = types.InlineKeyboardMarkup().add(
